@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/QPKu9sG.png' title='App Screenshot' width='' />
+<img src='https://i.imgur.com/QPKu9sG.png' title='App Screenshot' width='128px' />
 
 ## Notes
 
