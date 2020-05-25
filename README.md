@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="QPKu9sG"><a href="https://imgur.com/QPKu9sG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='App Screenshot' width='' />
+<img src='https://i.imgur.com/QPKu9sG.png' title='App Screenshot' width='' />
 
 ## Notes
 
